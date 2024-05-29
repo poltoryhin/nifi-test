@@ -1,0 +1,6 @@
+flows:
+  da36e340-2927-41f7-ba43-408518c5f475: {ver: 1, file: TestFlow1.snapshot, comments: initial
+      version, author: 'CN=sys_admin, OU=NIFI', created: 1717007899242, flowName: TestFlow1,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: 3aab63b3-6886-4eb4-8bc4-e90092ed1dc9
